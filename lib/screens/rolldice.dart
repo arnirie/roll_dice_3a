@@ -43,7 +43,7 @@ class _RollDiceScreenState extends State<RollDiceScreen> {
           child: Column(
             mainAxisSize: MainAxisSize.min,
             children: [
-              const Text('Roll Dice',
+              const Text('Ipaikot ang Dais',
               style: TextStyle(
                 fontSize: 38,
                 fontWeight: FontWeight.w600,
